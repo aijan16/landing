@@ -1,0 +1,7 @@
+.footer {
+  background: black;
+}
+.footer_block {
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=footer.css.map */
